@@ -1,0 +1,26 @@
+body {
+    background-color:rgb(183, 152, 221);
+    ;
+}
+
+header {
+    background-color: rgb(130, 89, 180)
+}
+
+.acerca-imagen {
+    width: 900px;
+    height: 300px;
+    display: flex
+}
+
+
+footer {
+    background-color: rgb(130, 89, 180)
+    display: flex,
+    
+}
+
+button {
+    background-color: rgb(205, 185, 224);
+    border: 0px    
+}
